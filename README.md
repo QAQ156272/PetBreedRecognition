@@ -33,28 +33,50 @@
 
 ### 猫（12 种）
 
-| Abyssinian | 阿比西尼亚猫 | Bengal | 孟加拉猫 |
-| Birman | 伯曼猫 | Bombay | 孟买猫 |
-| British Shorthair | 英国短毛猫 | Egyptian Mau | 埃及猫 |
-| Maine Coon | 缅因猫 | Persian | 波斯猫 |
-| Ragdoll | 布偶猫 | Russian Blue | 俄罗斯蓝猫 |
-| Siamese | 暹罗猫 | Sphynx | 斯芬克斯猫 |
+| English | 中文 |
+|---|---|
+| Abyssinian | 阿比西尼亚猫 |
+| Bengal | 孟加拉猫 |
+| Birman | 伯曼猫 |
+| Bombay | 孟买猫 |
+| British Shorthair | 英国短毛猫 |
+| Egyptian Mau | 埃及猫 |
+| Maine Coon | 缅因猫 |
+| Persian | 波斯猫 |
+| Ragdoll | 布偶猫 |
+| Russian Blue | 俄罗斯蓝猫 |
+| Siamese | 暹罗猫 |
+| Sphynx | 斯芬克斯猫 |
 
 ### 狗（25 种）
 
-| American Bulldog | 美国斗牛犬 | American Pit Bull Terrier | 美国比特犬 |
-| Basset Hound | 巴吉度猎犬 | Beagle | 比格犬 |
-| Boxer | 拳师犬 | Chihuahua | 吉娃娃 |
-| English Cocker Spaniel | 英国可卡犬 | English Setter | 英国雪达犬 |
-| German Shorthaired | 德国短毛指示犬 | Great Pyrenees | 大白熊犬 |
-| Havanese | 哈瓦那犬 | Japanese Chin | 日本狆 |
-| Keeshond | 荷兰毛狮犬 | Leonberger | 莱昂贝格犬 |
-| Miniature Pinscher | 迷你品犬 | Newfoundland | 纽芬兰犬 |
-| Pomeranian | 博美犬 | Pug | 巴哥犬 |
-| Saint Bernard | 圣伯纳犬 | Samoyed | 萨摩耶犬 |
-| Scottish Terrier | 苏格兰梗 | Shiba Inu | 柴犬 |
-| Staffordshire Bull Terrier | 斯塔福郡斗牛梗 | Wheaten Terrier | 爱尔兰软毛梗 |
-| Yorkshire Terrier | 约克夏梗 | | |
+| English | 中文 |
+|---|---|
+| American Bulldog | 美国斗牛犬 |
+| American Pit Bull Terrier | 美国比特犬 |
+| Basset Hound | 巴吉度猎犬 |
+| Beagle | 比格犬 |
+| Boxer | 拳师犬 |
+| Chihuahua | 吉娃娃 |
+| English Cocker Spaniel | 英国可卡犬 |
+| English Setter | 英国雪达犬 |
+| German Shorthaired | 德国短毛指示犬 |
+| Great Pyrenees | 大白熊犬 |
+| Havanese | 哈瓦那犬 |
+| Japanese Chin | 日本狆 |
+| Keeshond | 荷兰毛狮犬 |
+| Leonberger | 莱昂贝格犬 |
+| Miniature Pinscher | 迷你品犬 |
+| Newfoundland | 纽芬兰犬 |
+| Pomeranian | 博美犬 |
+| Pug | 巴哥犬 |
+| Saint Bernard | 圣伯纳犬 |
+| Samoyed | 萨摩耶犬 |
+| Scottish Terrier | 苏格兰梗 |
+| Shiba Inu | 柴犬 |
+| Staffordshire Bull Terrier | 斯塔福郡斗牛梗 |
+| Wheaten Terrier | 爱尔兰软毛梗 |
+| Yorkshire Terrier | 约克夏梗 |
 
 ## 快速开始
 
