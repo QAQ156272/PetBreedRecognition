@@ -391,6 +391,7 @@ PetBreedRecognition/
 │   └── advisor.py      # 养护顾问
 ├── weights/            # 模型权重文件
 ├── app.py              # Streamlit 主程序
+├── setup.py            # 跨平台一键安装部署脚本
 ├── requirements.txt    # 依赖库清单
 ├── run.bat             # Windows 一键运行脚本
 └── README.md           # 项目说明文档
